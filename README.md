@@ -1,9 +1,17 @@
 # Back to the Flipper - Flipper Zero Asset Pack
+---
+Custom Asset Pack for **Momentum Firmware**.
+---
 
 Example Icons:
-<img width="512" height="256" alt="4" src="https://github.com/user-attachments/assets/826a6408-ddfe-4383-83f5-12afa7e60325" /> <img width="512" height="256" alt="6" src="https://github.com/user-attachments/assets/69b1d559-74ae-4c51-9ac4-c62a8ccbd837" />
+<img width="512" height="256" alt="4" src="https://github.com/user-attachments/assets/826a6408-ddfe-4383-83f5-12afa7e60325" />
+---
+<img width="512" height="256" alt="6" src="https://github.com/user-attachments/assets/69b1d559-74ae-4c51-9ac4-c62a8ccbd837" />
 
-Custom Asset Pack for **Momentum Firmware**.
+Animations:
+
+<img width="512" height="256" alt="1" src="https://github.com/user-attachments/assets/860a3d16-6be1-4870-9f4c-dbcd4ee6ef71" />
+
 
 ## Contents
 
