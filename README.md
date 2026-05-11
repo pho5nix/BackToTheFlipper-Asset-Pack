@@ -3,14 +3,17 @@
 Custom Asset Pack for **Momentum Firmware**.
 ---
 
-Example Icons:
-<img width="512" height="256" alt="4" src="https://github.com/user-attachments/assets/826a6408-ddfe-4383-83f5-12afa7e60325" />
----
-<img width="512" height="256" alt="6" src="https://github.com/user-attachments/assets/69b1d559-74ae-4c51-9ac4-c62a8ccbd837" />
-
-Animations:
+## Animations:
 
 <img width="512" height="256" alt="1" src="https://github.com/user-attachments/assets/860a3d16-6be1-4870-9f4c-dbcd4ee6ef71" />
+
+<img width="512" height="256" alt="2" src="https://github.com/user-attachments/assets/903d84cd-f9f1-4ac1-854e-b06e48cac274" />
+
+## Example Icons:
+
+<img width="512" height="256" alt="4" src="https://github.com/user-attachments/assets/36ec38c2-de85-4c25-8cc1-88a301cab2c6" />
+
+<img width="512" height="256" alt="6" src="https://github.com/user-attachments/assets/69b1d559-74ae-4c51-9ac4-c62a8ccbd837" />
 
 
 ## Contents
