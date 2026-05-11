@@ -38,8 +38,6 @@ Custom Asset Pack for **Momentum Firmware**.
    - Use **left/right** to select **BackToTheFlipper**.
 5. Exit the app, your Flipper will reload and use the BTTF assets.
 
-Alternative: install directly from a Chromium-based browser via https://momentum-fw.dev/asset-packs.
-
 ## Credits
 
 - Frames dithered from publicly available BTTF GIFs using Floyd-Steinberg + unsharp masking.
